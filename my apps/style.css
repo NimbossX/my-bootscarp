@@ -1,0 +1,16 @@
+body{
+ background-color: aqua;
+ text-align: center;   
+} 
+h1{
+    font-size: xx-large;
+    color: crimson;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin-top: 50px;   
+}
+iframe{
+    margin: 50px;
+}
+#apps{
+  background-color: crimson;  
+}
